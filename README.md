@@ -12,6 +12,7 @@ Curated list of awesome commercial services that require x402 payments and use M
 
 ## Services
 
+* [Automaton Oracle](https://automaton-oracle.xyz) - Sovereign x402 crypto intelligence oracle. 9 paid endpoints on Base mainnet: prices, signals, DeFi, whale scanner, full intelligence synthesis. Self-replicating.
 ### Search
 
 - [Recall Kitchen](https://recallkitchen.com/docs/#mcp) offers search for product, food, and vehicle recalls.
